@@ -1,0 +1,5 @@
+.idea
+
+config.cfg
+deploy.sh
+ignore_change_numbers.txt
